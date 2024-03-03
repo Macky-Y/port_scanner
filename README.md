@@ -12,5 +12,6 @@ This tool was developed while attending TCM Security Academy's Ethical Hacking c
 
 <p align="center">
   This is how the program looks like:
+  <br>
 <img src="https://i.imgur.com/Hn3U8Zq.png">
 </p>
