@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/8SaUCij.jpg">
 </p>
 
-<h1>Port Scanner using Python3</h1>
+<h1 align="center">Port Scanner using Python3</h1>
 
 <p>
 I'm excited to introduce my first cybersecurity project: a port scanner!
