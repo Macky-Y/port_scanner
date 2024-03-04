@@ -19,3 +19,12 @@ This tool was developed while attending TCM Security Academy's Ethical Hacking c
   <br>
 <img src="https://i.imgur.com/Hn3U8Zq.png">
 </p>
+
+<br>
+<br>
+<br>
+<p align="center">
+  <b>
+    Note: Do not scan networks that you don't have permission to scan! This program is intended for education purposes only. Using this program for unauthorized network scanning or malicious activities is strictly prohibited. I am not responsible for any misuse or legal repercussions that may arise from unauthorized scanning.
+  </b>
+</p>
